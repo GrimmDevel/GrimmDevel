@@ -23,9 +23,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nexalith&show_icons=true&theme=tokyonight&hide=prs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NexalithDev&show_icons=true&theme=tokyonight&hide=prs" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nexalith&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexalithDev&theme=tokyonight" />
 </p>
 
 ---
@@ -33,14 +33,8 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/nexalith" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:nexalithdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://nexalith.dev">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
