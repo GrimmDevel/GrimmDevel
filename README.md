@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm <span style="color:#6C63FF">Nexalith</span> 👋</h1>
+<h1 align="center">Hey there, I'm <span style="color:#6C63FF">Eweroun</span> 👋</h1>
 <p align="center">💡 Passionate developer | 🧠 Lifelong learner | ⚙️ Tech enthusiast</p>
 
 ---
@@ -23,9 +23,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NexalithDev&show_icons=true&theme=tokyonight&hide=prs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EwerounDev&show_icons=true&theme=tokyonight&hide=prs" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexalithDev&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EwerounDev&theme=tokyonight" />
 </p>
 
 ---
