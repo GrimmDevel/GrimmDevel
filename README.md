@@ -1,43 +1,42 @@
-<h1 align="center">Hey, I'm <span style="color:#4C51BF">Eweroun</span> 🖤</h1>
-<p align="center">💻 Software Engineer | ⚙️ Systems Thinker | 🖤 Minimalist in Code</p>
+<h1 align="center">Eweroun</h1>
+<p align="center"><strong>Engineer of Systems | Automation | Open Source</strong></p>
 
 ---
 
-### 🧭 About Me
+### 🖤 Profile
 
-- ⚡ I build **reliable, scalable, and efficient** systems  
-- 🌌 Exploring **AI**, **DevOps**, and **distributed architecture**  
-- 🛠️ Languages I work with: **TypeScript**, **Rust**, **Go**, **Python**  
-- 🎯 Passion for **open-source**, **automation**, and **developer tools**  
+- Focus: **resilient architectures**, **automation**, **AI**  
+- Languages: **Rust**, **Go**, **Python**, **TypeScript**  
+- Approach: **minimalism**, **efficiency**, **clarity**  
 
 ---
 
-### 🔧 Tech Stack
+### ⚙️ Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,rust,go,py,nodejs,react,vue,tailwind,docker,kubernetes,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rust,go,py,ts,nodejs,react,vue,docker,kubernetes,linux,git&theme=dark" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EwerounDev&show_icons=true&theme=vision-friendly-dark&hide=prs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EwerounDev&show_icons=true&theme=dark&hide=prs" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EwerounDev&theme=vision-friendly-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EwerounDev&theme=dark" />
 </p>
 
 ---
 
-### 📫 Connect
+### 📡 Contact
 
 <p align="center">
   <a href="mailto:nexalithdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center"><i>“Code is order in chaos.”</i></p>
+<p align="center"><i>Silence. Code. Precision.</i></p>
