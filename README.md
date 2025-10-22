@@ -1,4 +1,4 @@
-<h1 align="center">Eweroun</h1>
+<h1 align="center">Grimm</h1>
 <p align="center"><strong>Engineer of Systems | Automation | Open Source</strong></p>
 
 ---
@@ -22,9 +22,9 @@
 ### 📈 Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EwerounDev&show_icons=true&theme=dark&hide=prs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GrimmDev&show_icons=true&theme=dark&hide=prs" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EwerounDev&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GrimmDev&theme=dark" />
 </p>
 
 ---
