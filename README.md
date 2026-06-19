@@ -22,9 +22,9 @@
 ### 📈 Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GrimmDev&show_icons=true&theme=dark&hide=prs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GrimmDevel&show_icons=true&theme=dark&hide=prs" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GrimmDev&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GrimmDevel&theme=dark" />
 </p>
 
 ---
