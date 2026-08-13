@@ -1,42 +1,59 @@
-<h1 align="center">Grimm</h1>
-<p align="center"><strong>Engineer of Systems | Automation | Open Source</strong></p>
+# grimmdevel
 
----
+> Memorable developer positioning.
 
-### 🖤 Profile
+**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
-- Focus: **resilient architectures**, **automation**, **AI**  
-- Languages: **Rust**, **Go**, **Python**, **TypeScript**  
-- Approach: **minimalism**, **efficiency**, **clarity**  
-
----
-
-### ⚙️ Core Stack
-
+## Header
+> Editing this section in the inspector.
+Hi, I'm **grimmdevel**. This README is tuned for **personal brand** with a GitHub visual system.
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,py,ts,nodejs,react,vue,docker,kubernetes,linux,git&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=grimmdevel&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=grimmdevel&theme=github-dark" alt="grimmdevel hero section" />
+  </picture>
+</p>
+## About Me
+Shapes the short profile story and positioning.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=grimmdevel&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=grimmdevel&theme=github-dark" alt="grimmdevel about section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=grimmdevel&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=grimmdevel&theme=github-dark" alt="grimmdevel stack section" />
+  </picture>
+</p>
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=grimmdevel&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=grimmdevel&theme=github-dark" alt="grimmdevel stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=grimmdevel&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=grimmdevel&theme=github-dark" alt="grimmdevel projects section" />
+  </picture>
+</p>
+## Heatmap
+Animated year-long contribution calendar.
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=grimmdevel&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=grimmdevel&theme=github-dark" alt="grimmdevel social section" />
+  </picture>
 </p>
 
----
-
-### 📈 Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GrimmDevel&show_icons=true&theme=dark&hide=prs" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GrimmDevel&theme=dark" />
-</p>
-
----
-
-### 📡 Contact
-
-<p align="center">
-  <a href="mailto:nexalithdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center"><i>Silence. Code. Precision.</i></p>
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Heatmap, Connect -->
